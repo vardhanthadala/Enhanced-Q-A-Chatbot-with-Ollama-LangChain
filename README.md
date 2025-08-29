@@ -2,7 +2,7 @@
 
 This project is a **Q&A chatbot** powered by **open-source LLMs** (via [Ollama](https://ollama.com/)) and **LangChain**, with an interactive **Streamlit UI**.  
 
-You can select different models (like `mistral`, `llama2`, `codellama`, `gemma`, etc.), adjust parameters like **temperature** and **max tokens**, and chat with your own locally running AI assistant.  
+We can select different models (like `mistral`, `llama2`, `codellama`, `gemma`, etc.), adjust parameters like **temperature** and **max tokens**, and chat with your own locally running AI assistant.  
 
 ---
 
